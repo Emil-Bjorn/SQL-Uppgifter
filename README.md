@@ -54,4 +54,5 @@ EXEC getP;
 
 
 ## 8
+<img width="802" height="632" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/7f957c6a-4f11-493a-846e-589ed8a646f0" />
 
