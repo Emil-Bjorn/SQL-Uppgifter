@@ -43,6 +43,10 @@ WHERE City = @city;
 EXEC getName ‘Paris’;
 
 CREATE PROC getP
+
+## 7
+
+## 8
 SELECT FirstName, LastName
 FROM Customer
 WHERE FirstName LIKE ‘P%’;
