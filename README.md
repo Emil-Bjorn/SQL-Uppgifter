@@ -50,6 +50,8 @@ WHERE FirstName LIKE ‘P%’;
 EXEC getP;
 
 ## 7
+<img width="396" height="99" alt="Screenshot 2026-11-17 at 08 12 32" src="https://github.com/user-attachments/assets/43db80d2-dd78-4467-92b6-1b1a5c64f6e7" />
+
 
 ## 8
 
